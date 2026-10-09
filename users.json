@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "sukidaw",
+      "password": "suki121",
+      "role": "admin",
+      "createdAt": 1791553839053
+    }
+  ]
 }

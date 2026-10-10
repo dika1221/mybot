@@ -5,6 +5,12 @@
       "password": "suki121",
       "role": "admin",
       "createdAt": 1791553839053
+    },
+    {
+      "username": "vin",
+      "password": "vin129",
+      "role": "admin",
+      "createdAt": 1791669404702
     }
   ]
 }
